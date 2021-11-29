@@ -1,0 +1,17 @@
+#table-wapper{
+    width: 100%;
+    overflow-y: auto;
+    height :380px;
+}
+h1{
+    background: -webkit-linear-gradient(150deg, #0000e6, #00cc99);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+thead{
+    background: -webkit-linear-gradient(240deg, #4d88ff, #00cc99); 
+    font-weight: bolder;
+}
+td{
+    width: 29%;
+}
